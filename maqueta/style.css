@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+#body{
+    background: #e7ebda;
+  }
+
+
+#inicio {
+    color:white; 
+    font-size: 19px;
+    font-family: 'Overpass', sans-serif;
+}
+#nosotros {
+    color:white;
+    font-family: 'Overpass', sans-serif;
+    font-size: 19px;
+}
+#nservicio{
+    color:white;
+    font-family: 'Overpass', sans-serif;
+    font-size: 19px;
+}
+#cliente {
+    color:white;
+    font-family: 'Overpass', sans-serif;
+    font-size: 19px;
+}
+#contacto {
+    color:white;
+    font-family: 'Overpass', sans-serif;
+    font-size: 19px;
+}
+
+.footer-style {
+    padding-top: 50px;
+    background-color: #2C3E50;
+}
+footer {
+  color: white;
+}
+footer h3 {
+  margin-bottom: 30px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: #2C3E50;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #233140;
+}
+
+#form {
+    margin-right: auto;
+    width:1024px ;
+    height:30px
+  }
+#nombre-form {
+    text-align: center;
+    margin-top: 55px;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-size: 50px;
+  }
+  
+#form form input  
+{ 
+  width: 100%;
+  height:35px;
+  
+}
+form button  { 
+  width: 50%;
+  height:35px;
+  
+}
+
+table,td { 
+  border: solid #cb3234 1px;
+  
+}
+
+
+
